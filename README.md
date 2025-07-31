@@ -1,5 +1,5 @@
 <h1>Análise de Sentimentos com Language Studio no Azure AI.</h1>
-<p>Esse projeto foi feito para o bootcamp Análise de Dados Randstad da DIO, com módulo focado na utilização da tecnologia Azure AI.</p>
+<p>Esse exercício foi feito para o bootcamp Análise de Dados Randstad da DIO, com módulo focado em auxiliar na utilização da tecnologia Azure AI.</p>
 
 <h2>Análise de Fala no Azure AI.</h2>
 <p>O serviço de fala no Azure AI transcreve fala em texto e texto em fala. Ele pode ser utilizado para transcrever relatórios ou gerar textos de acordo com gravações. Nesse exercício, utilizei pela Azure AI Foundry, a plataforma da Microsoft de criação de aplicações inteligentes, a análise requerida para transcrever um áudio sobre os aspectos benéficos do uso da inteligência artificial generativa.</p>
